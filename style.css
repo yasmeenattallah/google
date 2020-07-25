@@ -19,6 +19,7 @@ div.navbar ul{
 		float: right;
 		padding-left:20px;
 	}	
+div.navbar ul li a {color:  #6F6F6F;}
 	div.navbar ul li img{ margin-top: -6px;
 	}
 		div.navbar ul li:hover{
@@ -47,6 +48,7 @@ div.navbar ul{
  	width: 550px;
  	border-color: #EBEBEB;
  	border-radius:15px;
+     outline: none;
      
  }
   div.buttton {
@@ -94,6 +96,7 @@ margin-bottom: 0px;
   div.footer ul li{
   	float: left;
   }
+div.footer ul li a {color: #6F6F6F; }
     div.footer ul li:hover{
     	text-decoration: underline;
     }
@@ -105,6 +108,7 @@ margin-bottom: 0px;
     div.footer ol li {
     	 float: right;
     }
+div.footer ol li a{color:  #6F6F6F;}
       div.footer ol li:hover{
       	text-decoration: underline;
       }
